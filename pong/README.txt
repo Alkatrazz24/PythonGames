@@ -1,1 +1,1 @@
-Création de jeux codé en python
+Création du jeu classique Pong sans classe et avec turtle
